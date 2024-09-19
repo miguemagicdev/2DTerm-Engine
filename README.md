@@ -1,4 +1,4 @@
-lo# 2DTerm Engine
+# 2DTerm Engine
 2DTerm Engine es un proyecto grande que estoy creando para crear juegos
 adentro del terminal de lua!
 
