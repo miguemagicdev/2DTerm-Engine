@@ -7,3 +7,5 @@ suficientemente avanzado (mas o menos cuando sea beta).
 
 Este Engine para el terminal esta hecho con lua!
 ![2DTerm Engine Logo](https://i.ibb.co/GsG6Qmp/logo.png)
+
+Creado por MagicM (la empresa) y Migue Magic.
