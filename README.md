@@ -23,8 +23,4 @@ esto nos ayuda y nos motiva demasiado a seguir
 este proyecto!
 
 # Como contribuir
-Puedes contribuir diciendonos que quieres contribuir, dinos
-que role quieres trabajar, hay:
-- Diseñador web
-- progamador de lua
-- progamador de C (no tan necesario ahora)
+despues añadiremos la capacidad de contribuir.
